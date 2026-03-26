@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "BlackberryJam_library")(type "KiCad")(uri "${KIPRJMOD}/library/BlackberryJam_library.kicad_sym")(options "")(descr ""))
+)
